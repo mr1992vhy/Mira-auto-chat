@@ -4,9 +4,9 @@ const { v4: uuidv4 } = require('uuid');
 
 function showBanner() {
     console.log('\n\x1b[37m' + `
-                      🚀 AirdropInsiders 🚀                      
+                      🚀 mr1992vhy 🚀                      
                                                                  
-              Join us: https://t.me/AirdropInsiderID            
+              Join us: https://t.me/crypto_psychology            
   ` + '\x1b[0m\n');
   }
 
